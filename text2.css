@@ -1,0 +1,45 @@
+h1{
+	font-family: Trattatello, fantasy;
+	font-weight: 150px;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 30px;
+	background-color: #f2d9bb;
+}
+.a1{
+	font-family: Trattatello, fantasy;
+	font-weight: 150px;
+	color: black;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 30px;
+	background-color: #f2d9bb;
+}
+
+
+p{
+	font-family: Courier, monospace;
+	font-size: 65px;
+}
+h2{
+	font-family: Trattatello, fantasy;
+	font-weight: 150px;
+	text-align: left;
+	text-transform: uppercase;
+	letter-spacing: 30px;
+	background-color: #f2d9bb;
+}
+.img2{
+	border-block: 1rem solid;writing-mode: horizontal-tb;direction: rtl;color:#f2d9bb ;
+
+}
+.img3{
+	border-block: 1rem solid;writing-mode: horizontal-tb;direction: rtl;color:#f2d9bb ;
+}
+.img4{
+	border-block: 1rem solid;writing-mode: horizontal-tb;direction: rtl;color:#f2d9bb ;
+}
+
+
+
+

@@ -1,0 +1,37 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<style>
+body{
+background-color:blueviolet;
+font-style: italic;
+color:black;
+font-size: 60px;
+
+}
+</style>
+</head>
+<body>
+    <script>
+let compliments=["smart", "genius", "clever", "stunning", "charming","gorgeous","cute","kind","polite","adorable"]
+let animals=["cat","dog","parrot", "rabbit","owl","penguin","squirrel","fox","hedgehog","dolphin"]
+let colors=["red","blue","yellow","purple","","","","","",""]
+for(let i=1;i<=10;i++){
+let rand1=Math.floor(Math.random()*compliments.length);  
+let rand2=Math.floor(Math.random()*animals.length);
+let rand3=Math.floor(Math.random()*colors.lenght);
+document.write("You are so "+compliments[rand1]+" as "+animals[rand2]+"!"+"<br>")
+}
+
+
+
+
+
+    </script>
+</body>
+</html>
